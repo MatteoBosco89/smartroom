@@ -1,2 +1,2 @@
 # smartroom
-SwEng2020Project
+Project Init
