@@ -7,4 +7,4 @@ Project Init
 
 
 
-GitHub-Slack integration
+GitHub-Slack integration with GitHub feed channel
